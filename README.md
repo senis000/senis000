@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I should be working instead of playing with github
 
-![Nuria's GitHub stats](https://github-readme-stats.vercel.app/api?username=senis000&count_private=true)
+![Nuria's GitHub stats](https://github-readme-stats.vercel.app/api?username=senis000&count_private=true&show_icons=true&theme=dracula)

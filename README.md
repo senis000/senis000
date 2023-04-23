@@ -25,5 +25,6 @@ Alas, within these hallowed digital halls, only the remnants of antiquity doth r
 - 📫 How to reach me: email, always. 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I take my coffee like medicine, holding my breath and making a face of utter disgust.
-
+<br />
+<br />
 ![Nuria's GitHub stats](https://github-readme-stats.vercel.app/api?username=senis000&count_private=true&show_icons=true&theme=dracula)

@@ -17,7 +17,7 @@ TLDR: Useful and up to date repositories are in the [NVL lab](https://github.com
 Alas, within these hallowed digital halls, only the remnants of antiquity doth remain. The repositories of yore, once a testament to the vibrant vigor of a bygone era, now lie dormant, bereft of their former grandeur. Oh, how the winds of change have swept through these dusty corridors, leaving naught but memories and nostalgia in their wake. Yet let us not forget the legacy that these relics represent, for they are the foundations upon which our present-day advancements have been built. So let us honor these aged repositories, and pay homage to the ancient knowledge that they contain. For in their stillness, there lies a profound reverence that echoes throughout the ages.
 <br />
 
-##Brief introduction to who I am
+## Brief introduction to who I am
 - 🔭 I’m currently working on finishing experiments, analysis and papers!
 - 🌱 I’m currently learning to create a readme for my github profile
 - 👯 I’m looking to collaborate on optimal adaptable algorithms for neuro-stimulation on real-time

@@ -19,7 +19,7 @@ Alas, within these hallowed digital halls, only the remnants of antiquity doth r
 
 ## Brief introduction to who I am
 - 🔭 I’m currently working on finishing experiments, analysis and papers!
-- 🌱 I’m currently learning to create a readme for my github profile
+- 🌱 I’m currently learning more about dopamine timing
 - 👯 I’m looking to collaborate on optimal adaptable algorithms for neuro-stimulation on real-time
 - 💬 Ask me about CaBMI, Holographic Stim, DR activation, and the code to control them all.
 - 📫 How to reach me: email, always. 
